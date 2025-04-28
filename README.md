@@ -1,57 +1,49 @@
 # 👋 Hi, I'm Tom Emming
 
-🎯 **Software Developer & DevOps Engineer** based in the **Netherlands**
+🎯 **Software Developer & DevOps Engineer** | **Netherlands**
 
-I’m a software developer and DevOps engineer with a thing for clean code, smart automation, and building stuff that just works. I'm always keen to keep learning, trying out new tech, and pushing my skills a bit further with every project.
-
----
-
-## 🔧 Tech Stack & Specialties
-
-- **Languages & Frameworks**: PHP (Symfony), Python, Java, JavaScript (React, Next.js), Bash, Bootstrap
-- **Infrastructure & DevOps**: Linux, Kubernetes, Docker, Podman, Ansible, GitLab CI/CD, Proxmox, VMware
-- **Database & API**: MySQL, MariaDB, REST APIs, Microservices
-- **Monitoring & Tools**: Prometheus, Grafana, NetApp, FluxCD
+I’m passionate about clean code, smart automation, and building systems that just work. Always learning, always improving.
 
 ---
 
-## 💼 What I’ve Been Up To
+## 🔧 Tech Stack
 
-- 🛠 **Tinkering with automation at various jobs**  
-  From Kubernetes clusters to GitLab automation — I’ve been building tools and pipelines that make DevOps smoother and smarter.
-
-- 🧱 **Coding backend magic**  
-  Built and maintained Symfony-based backends for e-commerce platforms, plugged in React components, and kept things running fast and clean.
-
-- 🌱 **Always exploring new challenges**  
-  From building internal tools to leading automation efforts, I’m always up for solving tricky problems and making tech work harder (and smarter).
-
+- **Languages**: PHP (Symfony), Python, Java, JavaScript (React, Next.js), Bash
+- **DevOps**: Linux, Kubernetes, Docker, Podman, Ansible, GitLab CI/CD
+- **Database**: MySQL, MariaDB, REST APIs, Microservices
+- **Monitoring**: Prometheus, Grafana, NetApp, FluxCD
 
 ---
 
-## 🚀 Personal Projects & Entrepreneurship
+## 💼 Experience Highlights
 
-- 🛠 **Founder of Netbela Hosting** – providing scalable hosting solutions for SMEs.
-- 🖥️ **EpicBuilds Gaming PC's** – designing and selling high-performance gaming PCs.
-- 🌐 Website development.
-- 🚀 Currently working on launching my own **SaaS product**.
-
----
-
-## 📈 Always Learning
-
-- 🧑‍🎓 Accelerated HBO-ICT Software Engineering at Windesheim (graduating 2025, cum laude)
-- 💡 Passionate about clean code, architecture, and infrastructure-as-code
-- 🧠 Curious by nature, I’m always diving into new tech and solving complex problems
+- 🛠 Automating infrastructure and CI/CD with Kubernetes & GitLab
+- 🧱 Developing robust Symfony backends and React frontends
+- 🌱 Tackling new tech challenges and building smarter solutions
 
 ---
 
-## 📫 Let’s Connect!
+## 🚀 Projects & Ventures
 
-- 🌐 [Website](https://tomemming.nl) / [tinux-it.nl](https://tinux-it.nl)
+- **Netbela Hosting** – Scalable hosting for SMEs
+- **EpicBuilds Gaming PCs** – High-performance custom PCs
+- Launching a new **SaaS product** 🚀
+
+---
+
+## 📈 Learning & Growth
+
+- 🎓 HBO-ICT Software Engineering @ Windesheim (Graduating 2025, cum laude)
+- 💡 Focused on clean architecture, infrastructure-as-code, and new tech
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [Website](https://tomemming.nl) | [Tinux-IT](https://tinux-it.nl)
 - 📧 [info@tinux-it.nl](mailto:info@tinux-it.nl)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tomemming/)
 
 ---
 
-> “The best code is no code at all.” – Jeff Atwood
+> "The best code is no code at all." – Jeff Atwood
