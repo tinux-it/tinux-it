@@ -25,8 +25,8 @@ I’m passionate about clean code, smart automation, and building systems that j
 
 ## 🚀 Projects & Ventures
 
-- **Netbela Hosting** – Scalable hosting for SMEs
-- **EpicBuilds Gaming PCs** – High-performance custom PCs
+- **[Netbela Hosting](https://netbela.com)** – Scalable hosting for SMEs
+- **[EpicBuilds Gaming PCs](https://epicbuilds.nl)** – High-performance custom PCs
 - Launching a new **SaaS product** 🚀
 
 ---
